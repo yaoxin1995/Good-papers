@@ -18,4 +18,4 @@
 
 [Faastlane: Accelerating Function-as-a-Service Workflows](https://www.usenix.org/conference/atc21/presentation/kotni)
 
-[I'm an inline-style link](https://www.google.com)
+
