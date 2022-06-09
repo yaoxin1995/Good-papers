@@ -42,7 +42,12 @@ Machines](https://arxiv.org/pdf/2104.14862.pdf)
 
 https://15316-cmu.github.io/2021/schedule.html
 
-[Bootstrapping and maintaining trust in the cloud](https://dl.acm.org/doi/10.1145/2991079.2991104)
+[Bootstrapping and maintaining trust in the cloud](ht[a-practical-guide-to-trusted-computing_compress.pdf](https://github.com/yaoxin1995/Good-papers/files/8873611/a-practical-guide-to-trusted-computing_compress.pdf)
+tps://dl.acm.org/doi/10.1145/2991079.2991104)
+[Lecture Notes on trused computing.pdf](https://github.com/yaoxin1995/Good-papers/files/8873614/Lecture.Notes.on.trused.computing.pdf)
+[Bootstrapping Trust.pdf](https://github.com/yaoxin1995/Good-papers/files/8873615/Bootstrapping.Trust.pdf)
+
+
 ### Linux Integrity Measurement Architecture
 [Design and Implementation of a TCG-based Integrity Measurement Architecture](https://www.semanticscholar.org/paper/Design-and-Implementation-of-a-TCG-based-Integrity-Sailer-Zhang/21ebbd3726edb924442c4ceb6ddb467adf7731c9)
 
