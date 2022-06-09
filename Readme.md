@@ -27,6 +27,8 @@
 
 [Faastlane: Accelerating Function-as-a-Service Workflows](https://www.usenix.org/conference/atc21/presentation/kotni)
 
+
+
 ## `Confidential computing`
 [Authentication in Distributed Systems:
 Theory and Practice](https://dl.acm.org/doi/abs/10.1145/138873.138874)
@@ -37,6 +39,8 @@ Theory and Practice](https://dl.acm.org/doi/abs/10.1145/138873.138874)
 
 [WELES: Policy-driven Runtime Integrity Enforcement of Virtual
 Machines](https://arxiv.org/pdf/2104.14862.pdf)
+
+https://15316-cmu.github.io/2021/schedule.html
 
 [Bootstrapping and maintaining trust in the cloud](https://dl.acm.org/doi/10.1145/2991079.2991104)
 ### Linux Integrity Measurement Architecture
