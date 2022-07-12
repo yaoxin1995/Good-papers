@@ -3,6 +3,8 @@
 ## `Unikernel Papers`
 [Papers](https://github.com/olivierpierre/unikernel-papers)
 
+[Unikernels as Processes](https://dl.acm.org/doi/pdf/10.1145/3267809.3267845)
+
 [Unikernels: Library Operating Systems for the Cloud](https://anil.recoil.org/papers/2013-asplos-mirage.pdf)
 
 [Unikraft: fast, specialized unikernels the easy way](https://dl.acm.org/doi/abs/10.1145/3447786.3456248)
