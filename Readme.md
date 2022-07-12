@@ -32,8 +32,7 @@
 
 
 ## `Confidential computing`
-[Authentication in Distributed Systems:
-Theory and Practice](https://dl.acm.org/doi/abs/10.1145/138873.138874)
+[Authentication in Distributed Systems:Theory and Practice](https://dl.acm.org/doi/abs/10.1145/138873.138874)
 
 [Trust and Trusted Computing Platforms](https://pdfs.semanticscholar.org/47a7/851512250e93542324a1b5a93e51bc9a5c52.pdf?_ga=2.107684097.260949531.1653241332-2034596607.1653241332)
 
@@ -56,5 +55,4 @@ tps://dl.acm.org/doi/10.1145/2991079.2991104)
 ### Linux Integrity Measurement Architecture
 [Design and Implementation of a TCG-based Integrity Measurement Architecture](https://www.semanticscholar.org/paper/Design-and-Implementation-of-a-TCG-based-Integrity-Sailer-Zhang/21ebbd3726edb924442c4ceb6ddb467adf7731c9)
 
-[PRIMA: Policy-Reduced Integrity Measurement
-Architecture](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.7978&rep=rep1&type=pdf)
+[PRIMA: Policy-Reduced Integrity Measurement Architecture](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.7978&rep=rep1&type=pdf)
