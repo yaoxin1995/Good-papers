@@ -32,6 +32,8 @@
 
 
 ## `Confidential computing`
+[SoK: Hardware-supported Trusted Execution Environments](https://github.com/yaoxin1995/Good-papers/files/9090701/2205.12742.2.pdf)
+
 [Authentication in Distributed Systems:Theory and Practice](https://dl.acm.org/doi/abs/10.1145/138873.138874)
 
 [Trust and Trusted Computing Platforms](https://pdfs.semanticscholar.org/47a7/851512250e93542324a1b5a93e51bc9a5c52.pdf?_ga=2.107684097.260949531.1653241332-2034596607.1653241332)
