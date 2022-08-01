@@ -55,8 +55,7 @@ tps://dl.acm.org/doi/10.1145/2991079.2991104)
 
 
 ### Linux Integrity Measurement Architecture
-[Design and Implementation of a TCG-based Integrity Measurement Architecture](https://www.semanticscholar.org/paper/Design-and-Implementation-of-a-TCG-based-Integrity-Sailer-Zhang/21ebbd3726edb924442c4ceb6ddb467ad
-f7731c9)
+[Design and Implementation of a TCG-based Integrity Measurement Architecture](https://www.semanticscholar.org/paper/Design-and-Implementation-of-a-TCG-based-Integrity-Sailer-Zhang/21ebbd3726edb924442c4ceb6ddb467adf7731c9)
 
 [PRIMA: Policy-Reduced Integrity Measurement Architecture](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.7978&rep=rep1&type=pdf)
 
